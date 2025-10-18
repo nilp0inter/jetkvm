@@ -1,10 +1,10 @@
-# Serial Extension Protocol
+# Extension Protocol
 
-This document outlines the protocol for transmitting serial extension data between the backend and the UI.
+This document outlines the protocol for transmitting extension data between the backend and the UI.
 
 ## Overview
 
-The serial extension protocol uses a combination of a raw data channel and JSON-RPC messages over a separate data channel to transmit data between the backend and the UI.
+The extension protocol uses a combination of a raw data channel and JSON-RPC messages over a separate data channel to transmit data between the backend and the UI.
 
 ## Data Channels
 
